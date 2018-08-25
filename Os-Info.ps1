@@ -850,7 +850,6 @@ $account = "
 [2] List logon users.
 [3] Describe user.
 [4] List groups.
-[5] Describe group.
 [9] Go back.
 [0] Exit
 "
